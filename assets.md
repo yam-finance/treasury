@@ -24,7 +24,7 @@ _Under updates ⚠️_
 
 ### Index Coop: DPI staking rewards v2 Contract ([0xb93b505ed567982e2b6756177ddd23ab5745f309](https://etherscan.io/token/0xb93b505ed567982e2b6756177ddd23ab5745f309))
 - Treasury has Uniswap DPI/ETH LP tokens on the staking rewards contract
-  - See `rewardsContract.balanceOf(0x205Cc7463267861002b27021C7108Bc230603d0F)`
+  - See `contract.balanceOf(0x205Cc7463267861002b27021C7108Bc230603d0F)`
   - See Uniswap DPI/ETH LP ([UNI DPI/ETH LP](https://etherscan.io/token/0x4d5ef58aac27d99935e5b6b4a6778ff292059991))
     - 50% DefiPulse Index ([DPI](https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b))
     - 50% Wrapped Ethereum ([WETH](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2))
