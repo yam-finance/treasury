@@ -5,6 +5,7 @@ _Under updates ⚠️_
 ## Mainnet
 ### Reserves Contract ([0x97990b693835da58a281636296d2bf02787dea17](https://etherscan.io/tokenholdings?a=0x97990b693835da58a281636296d2bf02787dea17))
 - Wrapped Ethereum ([WETH](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2))
+- Yam ([YAM](https://etherscan.io/token/0x0aacfbec6a24756c20d41914f2caba817c0d8521))
 - DefiPulse Index ([DPI](https://etherscan.io/token/0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b))
 - UMA Voting Token v1 ([UMA](https://etherscan.io/token/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828))
 - SushiBar ([xSUSHI](https://etherscan.io/token/0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272))
