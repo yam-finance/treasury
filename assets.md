@@ -1,6 +1,5 @@
 # Yam Treasury Assets
 #### Recognized treasury assets of all different locations are listed below.
-_Under updates ⚠️_
 
 ## Mainnet
 ### Reserves Contract ([0x97990b693835da58a281636296d2bf02787dea17](https://etherscan.io/tokenholdings?a=0x97990b693835da58a281636296d2bf02787dea17))
